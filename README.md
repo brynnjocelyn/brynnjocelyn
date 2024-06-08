@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engieer
 -----------------------
 
-I'm a seasoned Software Developer with over a decade of experience in crafting custom web applications. I'm deeply proficient in Angular (up to version 16), and well-versed in fundamental JavaScript/TypeScript constructs. My skill set extends to various state management tools like Redux and NGRX, and I'm adept at developing robust APIs using NodeJS/ExpressJS and Python/Django as well as using static site generators such as Gatsby.js with React.js. In my spare time I tinker with running several Proxmox servers in my home lab currently containing 2 Dell R630 and 4 Dell R730XD servers hosting a multitude of different services. I'm also building a niche community SaaS cross platform mobile app using the Ionic Framework.
+I'm a seasoned Software Developer with over a decade of experience in crafting custom web applications. I'm deeply proficient in Angular (up to version 17), and well-versed in fundamental JavaScript/TypeScript constructs. My skill set extends to various state management tools like Redux and NGRX, and I'm adept at developing robust APIs using NodeJS/ExpressJS and Python/Django as well as using static site generators such as Gatsby.js with React.js. In my spare time I tinker with running several Proxmox servers in my home lab currently containing 2 Dell R630 and 4 Dell R730XD servers hosting a multitude of different services. I'm also building a niche community SaaS cross platform mobile app using the Ionic Framework.
 
 * 🌍  I'm based in Las Vegas, NV
 * ✉️  You can contact me at [jocelyn@bmdevservices.com](mailto:jocelyn@bmdevservices.com)
