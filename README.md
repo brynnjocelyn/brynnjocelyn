@@ -8,7 +8,7 @@ I'm a seasoned Software Developer with over a decade of experience in crafting c
 
 * 🌍  I'm based in Las Vegas, NV
 * ✉️  You can contact me at [jocelyn@bmdevservices.com](mailto:jocelyn@bmdevservices.com)
-* 🧠  I'm learning Ionic, Sanity.io (Headless CMS), Go, AWS Lamdas
+* 🧠  Right now I'm learning Golang, self hosting a PocketBase database instance on my Proxmox cluster, Arista switch managment with multiple VLANs and a multitude of other things tech.
 
 ### Skills
 
